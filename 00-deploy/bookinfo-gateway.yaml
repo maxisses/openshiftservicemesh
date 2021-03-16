@@ -25,7 +25,7 @@ spec:
   http:
   - match:
     - uri:
-        exact: "/max"
+        exact: "/maxdargatz"
     rewrite:
       uri: "/productpage"
     route:
